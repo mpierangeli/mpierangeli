@@ -1,5 +1,5 @@
 
-# Martín Pierangeli
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=200&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hey+There!+Welcome+to+my+repository!;My+name+is+Mart%C3%ADn+Pierangeli;I'm+a+software+enthusiast;Expect+this+repo+to+growth+fast!)](https://git.io/typing-svg)
 
 
 <!-- Badges -->
@@ -20,11 +20,17 @@
 
 
 <!-- Technologies and Tools -->
-### Technologies & Tools:
+### Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-%230078D7.svg?&style=for-the-badge&logo=&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/OpenCV-%23F34B7D.svg?&style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/DBT-%23FF6F00.svg?&style=for-the-badge&logo=dbt&logoColor=white" alt="DBT">
+  <img src="https://img.shields.io/badge/Airflow-%230066CC.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/Redshift-%23E71A1A.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Redshift">
 </p>
 
 
