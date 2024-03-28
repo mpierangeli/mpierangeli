@@ -24,9 +24,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-%230078D7.svg?&style=for-the-badge&logo=&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/OpenCV-%23F34B7D.svg?&style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/DBT-%23FF6F00.svg?&style=for-the-badge&logo=dbt&logoColor=white" alt="DBT">
   <img src="https://img.shields.io/badge/Airflow-%230066CC.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
